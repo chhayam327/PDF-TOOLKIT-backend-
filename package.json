@@ -26,7 +26,6 @@
     "docx": "^8.5.0",
     "mammoth": "^1.8.0",
     "html-pdf-node": "^1.0.8",
-    node-qpdf": "^0.1.3"
     "uuid": "^10.0.0"
   },
   "devDependencies": {
